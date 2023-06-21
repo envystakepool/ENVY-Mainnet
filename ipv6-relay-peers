@@ -1,0 +1,17 @@
+{
+          "address": "relay1.apexpool.info",
+          "port": 5001
+        },
+        {
+          "address": "us.panl.org",
+          "port": 3001
+        },
+        {
+          "address": "finland.panl.org",
+          "port": 3001
+        },
+        {
+          "address": "eu.panl.org",
+          "port": 3001
+        }
+}
