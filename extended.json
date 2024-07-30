@@ -12,8 +12,8 @@
             "country": "USA"
         },
      "about": {
-            "me": "We are two brothers with a passion for Cardano who want to help build the community and learn more about this exciting technology by investing our time, money, and energy into providing a high quality stake pool for anyone who wants to participate!",
-            "server": "Currently using Digital Ocean servers for block producer and relay nodes. We use an air-gapped offline machine for sensitive transactions."
+            "me": "ENVY provides premier Cardano staking, bringing reliable ADA rewards to the Cardano delegator. We operate as a single pool on decentralized bare metal servers and support Cardano mainnet and testnets. For more information, visit: https://linktr.ee/envystakepool.",
+            "server": "Decentralized bare metal servers."
         },
     "my-pool-ids": {
         "0": "14eae9da8ab6d322176ea88f40e9d32d843996bf2de88240e35594ea",
