@@ -1,13 +1,13 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/EtherealStakePool/Cardano/main/envy_icon.png",
-        "url_png_logo": "https://raw.githubusercontent.com/EtherealStakePool/Cardano/main/envy_logo.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/envystakepool/ENVY-Mainnet/main/envy_icon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/envystakepool/ENVY-Mainnet/main/envy_logo.png",
      "social": {
             "twitter_handle": "EnvyStakePool",
             "telegram_handle": "EnvyStakePool"
         },
      "company": {
-            "name": "Envy Stake Pool",
+            "name": "ENVY Stake Pool",
             "city": "USA, USA",
             "country": "USA"
         },
